@@ -1,0 +1,8 @@
+= Gesamtarchitektur der TI
+
+[WARNING]
+====
+Dies ist ein Proof of Concept für *Specs-as-Code* Idee und keine offizielle Spezifikation. 
+====
+
+Repository für die Dokumentation der Gesamtarchitektur der TI. Die Inhalte werden als Teil der https://github.com/kitameg/docs-tim[TI-Messenger Dokumentation] verwendet.
