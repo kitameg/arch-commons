@@ -1,0 +1,6 @@
+name: arch-commons 
+title: Gesamtarchitektur 
+version: '10.0.0-wip' 
+start_page: ROOT:Einführung.adoc
+nav:
+- modules/ROOT/nav.adoc
